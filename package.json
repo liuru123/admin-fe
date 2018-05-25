@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://git.oschina.net/happymmall/mmall_admin_fe.git"
+    "url": "git@github.com:liuru123/admin-fe.git"
   },
   "author": "Rosen",
   "license": "ISC",
